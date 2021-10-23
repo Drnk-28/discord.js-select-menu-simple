@@ -33,4 +33,4 @@ client.login(process.env.token)
  * @INFO simple code with no error
  * 
  * @INFO https://github.com/FuadJTM/discord.js-select-menu-simple
- * /
+ */
