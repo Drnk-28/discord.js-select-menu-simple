@@ -1,0 +1,5 @@
+{
+  "prefix": "b!",
+  "ownerID": ["626413361185292321", "your discord id"],
+  "mongodb": "your mongodb url"
+}
