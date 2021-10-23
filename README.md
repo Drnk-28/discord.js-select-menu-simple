@@ -2,7 +2,7 @@
 This is a simple example of a dropdown/select menu using `discord.js`
 ### How to run this repository
 - You need node.js v16 or higher
-- install the latest version of `npm i discord.js`
+- install discord.js latest version or v13</br>`npm i discord.js`
 - download this repository or clone using `git clone`
 - fill in requirements `config.json`
 ```json
@@ -13,6 +13,6 @@ This is a simple example of a dropdown/select menu using `discord.js`
 }
 ```
 ***
-### note: if there are still errors, I'm sorry</br>thanks
+#### note: if there are still errors, I'm sorry</br>thanks
 
 
