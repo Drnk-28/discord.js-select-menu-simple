@@ -18,6 +18,9 @@
     "util": "^0.12.4",
     "node-fetch": "^2.6.1"
   },
+  "repository": {
+    "url": "https://github.com/reconlx/discord.js-select-menu-simple"
+    }
   "keywords": [
     "discord.js",
     "discord","dropdown-discord.js"
