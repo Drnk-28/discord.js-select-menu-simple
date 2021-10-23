@@ -1,7 +1,7 @@
 # discord.js-select-menu-simple
 This is a simple example of a dropdown/select menu using `discord.js`
 ### How to run this repository
-- You need node.js v16 or higher
+- you need `node.js v16` or higher
 - install discord.js latest version or v13</br>`npm i discord.js`
 - download this repository or clone using `git clone`
 - fill in requirements `config.json`
