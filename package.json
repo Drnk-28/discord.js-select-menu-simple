@@ -1,0 +1,25 @@
+{
+  "name": "dropdown-example",
+  "version": "3.2.1",
+  "description": "this repository is only for test or dropdown/select menu example",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "FuadJTM",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^13.2.0",
+    "fs": "^0.0.2",
+    "glob": "^7.2.0",
+    "moment": "^2.29.1",
+    "mongodb": "^4.1.2",
+    "mongoose": "^6.0.10",
+    "util": "^0.12.4",
+    "node-fetch": "^2.6.1"
+  },
+  "keywords": [
+    "discord.js",
+    "discord","dropdown-discord.js"
+  ]
+}
